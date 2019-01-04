@@ -1,4 +1,4 @@
-package com.azure.test.demoazuredevops;
+package com.microsoft.azure.samples.hellospringboot;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
